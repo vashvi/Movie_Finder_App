@@ -1,0 +1,25 @@
+.structure{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+.heading{
+    margin-top: 15%;
+}
+
+.search-bar input{
+    margin: 20px;
+    padding: 5px;
+    width: 500px;
+    height: 30px;
+    border-radius: 25px;
+    border: 1px solid black;
+    padding-left: 10px;
+    font-size: 16px;
+}
+
+.movie-list{
+    width: 90vw;
+}
